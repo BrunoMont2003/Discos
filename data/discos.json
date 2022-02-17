@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "nombre": "Disco de Cristiano Ronaldo",
+        "precio" : 1000,
+        "año":2020
+    },
+    {
+        "id" : 2,
+        "nombre": "Disco de Lionel Messi",
+        "precio" : 1500,
+        "año":2010
+    },
+    {
+        "id" : 3,
+        "nombre": "Disco de Bruno Mars",
+        "precio" : 3500,
+        "año":2015
+    },
+    {
+        "id" : 4,
+        "nombre": "Disco de Taylor Swift",
+        "precio" : 5500,
+        "año":2022
+    }
+]

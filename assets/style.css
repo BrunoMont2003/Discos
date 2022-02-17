@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+.invalid-feedback{
+  display: none;
+}
+.show {
+  display: block !important;
+}
+.invalid input {
+  color: #ed5829 !important;
+  border-color: #ed5829;
+  background-color: #f9c5b4;
+}
+.invalid label {
+  color: #ed5829;
+}
+.invalid-feedback {
+  color: #ed5829;1
+}
